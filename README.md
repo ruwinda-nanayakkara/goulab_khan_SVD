@@ -4,3 +4,6 @@ Here is an attempt to implement singular value decomposition with Goulab Khan al
 * Need to implemt the Givens Rotation reductions to ge the full SVD *
 
 [This](https://web.stanford.edu/class/cme335/lecture6.pdf) document from Stanford gives an idea about the algorithm.
+
+
+The PDF includes the paper for the alorithm.
